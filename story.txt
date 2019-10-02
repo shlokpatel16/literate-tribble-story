@@ -1,2 +1,18 @@
 Hello!
+<<<<<<< HEAD
 This is my story:
+=======
+This is my story:
+
+Once upon a time there was a furry bunny that loved to hide easter eggs. Even when it was not Easter, this bunny would still hide eggs. It became annoying to the townspeople because 
+the bunny was wasting all the eggs. People had to wake up before work and search the city for an egg to cook themselves for breakfast. Eventually, people stopped eating eggs for breakfast and began to eat chicken instead. 
+
+Hi
+My name is Yijun Cheng, this is my story. I am writing this story for xteam3 assignment. It is difficult!
+
+Hello,
+My name is Ali and this is my story about snowboarding. Snowboarding is something I love to do and I have been
+doing it for about eight years!
+>>>>>>> 6ff58c2704d9d9634605895d6715317be6f67eee
+
+Shlok - this is the end of my day. Now i'm taking the day off for my mental health!
